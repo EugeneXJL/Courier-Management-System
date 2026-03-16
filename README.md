@@ -100,21 +100,20 @@ Password: admin123
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-</>Markdown
 
-Courier-Management-System
+Courier-Management-System/
 │
-├── diagrams
+├── diagrams/
 │ ├── requirement-diagram
 │ ├── use-case-diagram
 │ └── system-architecture
 │
-├── ui-design
+├── ui-design/
 │ └── figma-screens
 │
-├── documentation
+├── documentation/
 │ └── project-report
 │
 └── README.md
